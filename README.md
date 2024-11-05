@@ -14,6 +14,7 @@ And get all my post articles in my blog 📝 [**medium**](https://medium.com/@iv
 ## 💻 Open Source Work Stats
 
 ![IvanSotelo's Github stats](https://github-readme-stats.vercel.app/api?username=IvanSotelo&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSotelo&layout=compact)
 <!--
 **IvanSotelo/IvanSotelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
