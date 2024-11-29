@@ -4,7 +4,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
   </a>
 
-I am a Software engineer from Chihuahua, Mexico. I'm currently working on @capital-check-in as a Software engineering manager.  
+I am a Software engineer from Chihuahua, Mexico. I'm currently working on @capital-check-in as a CTO.  
 
 
 ## 📚 Tech Articles
